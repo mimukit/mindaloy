@@ -19,7 +19,7 @@ Learners forget material they do not review on a schedule. The tools that plan t
 - Read due cards, review history, and progress.
 - Give external clients scoped, revocable API keys.
 - Create cards from external clients by external ID, with no duplicates.
-- Review cards offline on a phone and sync the results later.
+- Review cards on a phone through the browser. Offline review with later sync is planned for a later release.
 
 ### Non-goals
 - No lesson authoring, course management, or learning phase workflow.
@@ -63,7 +63,7 @@ One immutable record of a learner answering a card: the card revision, the revie
 _Avoid: review event, attempt, study session_
 
 ### Grade
-The learner's own judgement of how well they recalled a card, chosen from a fixed set after the key points are shown.
+The learner's own judgement of how well they recalled a card, chosen after the key points are shown. The set is Again, Hard, Good, and Easy, one for each FSRS rating ([ADR 0003](docs/adr/0003-adr-schedule-with-ts-fsrs-on-the-server-2026-10-22.md)).
 _Avoid: rating, score, result_
 
 ### Schedule
@@ -74,12 +74,16 @@ _Avoid: interval, card state_
 A card whose schedule says it is ready for review now.
 _Avoid: pending card, card to study_
 
+### Day start
+The local hour, in the owner's time zone, at which a new review day begins. A schedule of one day or more falls due at the day start of its due day.
+_Avoid: rollover, midnight, day boundary_
+
 ### Pending review
-A review saved on a device that the server has not confirmed yet.
+A review saved on a device that the server has not confirmed yet. It exists only with offline review, which is planned for a later release.
 _Avoid: unsynced review, queued review, offline review_
 
 ### Provisional schedule
-A schedule computed on a device from pending reviews. The server schedule replaces it after sync.
+A schedule computed on a device from pending reviews. The server schedule replaces it after sync. It exists only with offline review, which is planned for a later release.
 _Avoid: local schedule, temporary schedule_
 
 ## Integration
@@ -91,3 +95,7 @@ _Avoid: integration, third-party app, bot_
 ### External ID
 The pair of an external source ID and an external card ID that an external client gives a card. It is unique within a collection, so a repeated create does not make a duplicate card.
 _Avoid: foreign key, client ID, source key_
+
+### API key scope
+The set of operations and the list of collections that one API key may use. A request outside either one is refused.
+_Avoid: permission, role, access level_

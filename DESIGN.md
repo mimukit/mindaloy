@@ -111,7 +111,7 @@ This system is proposed from supplied, approved mockups and briefs, not extracte
 
 The mockup prompts supply the numeric colors. Generated pixels can differ from those values. The tokens define implementation colors; the approved images define composition and visual hierarchy.
 
-Integration settings have no approved image. The keyboard rules and request states below provide implementation guidance from the visual plan. They are not evidence of a tested interface. Keep issue #2 open until its remaining reference requirements are satisfied.
+The owner approves the integration settings Draft 01 on 2026-10-22, in [dark](output/design/pages/07-integration-settings-dark-v1.png) and [light](output/design/pages/07-integration-settings-light-v1.png) modes. The keyboard rules and request states below provide implementation guidance from the visual plan. They are not evidence of a tested interface.
 
 ## Colors
 
@@ -215,7 +215,7 @@ Disable duplicate grade submission while a save is pending. Advance only after s
 
 ### Integration settings
 
-Apply the same page colors, type roles, and flat controls. This screen still needs an approved visual reference.
+Apply the same page colors, type roles, and flat controls. The approved reference is the integration settings Draft 01 from 2026-10-22.
 
 Document the key name, permitted collections, permitted operations, and last use. Provide key creation and revocation. Show a new key value once with a copy control and an instruction to save it.
 

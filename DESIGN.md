@@ -27,9 +27,9 @@ colors:
   marker-light: "#4A4A48"
 typography:
   headline:
-    fontFamily: serif
+    fontFamily: Newsreader
   body:
-    fontFamily: sans-serif
+    fontFamily: DM Sans
 components:
   button-primary:
     backgroundColor: "{colors.primary}"
@@ -138,9 +138,11 @@ Error, warning, hover, and active colors have no approved numeric values. Do not
 
 ## Typography
 
-Use serif type for the wordmark, collection headings, collection names, and review cue shown in the approved references. Use sans-serif type for navigation, counts, body text, labels, and buttons.
+Use Newsreader for the wordmark, collection headings, collection names, and review cue. Use DM Sans for navigation, counts, body text, labels, and buttons.
 
-The generic `serif` and `sans-serif` families record the approved type roles. They do not select a specific font. Font files, sizes, weights, line heights, and letter spacing remain unspecified.
+The owner selects option 2, Newsreader with DM Sans, on 2026-10-22. The [font comparison](output/design/mindaloy-font-comparison.html) records the alternatives. This selection replaces the unspecified fonts in the earlier mockups. Preserve their layout and colors.
+
+Use `"Newsreader", serif` and `"DM Sans", sans-serif` as the CSS font stacks. Production font files, sizes, weights, line heights, and letter spacing remain unspecified. The comparison contains subset font files for sample text, with [license files](output/design/font-licenses/).
 
 Make the cue the most prominent review text. Keep key points and typed answers readable without magnification. Do not use low-contrast small text to reproduce incidental image shading.
 

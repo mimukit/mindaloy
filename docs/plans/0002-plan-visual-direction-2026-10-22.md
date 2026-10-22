@@ -6,9 +6,15 @@ Status: The owner approves the final concept 05 flat-control mockups on 2026-10-
 
 The final approval covers desktop collections and phone review after reveal in dark and light modes. It supersedes the earlier lime, colored-primary, and raised-button variations. The design document records phone behavior, keyboard guidance, and request states. Those rules do not represent browser test results.
 
-The owner selects concept 05 instead of the later layout variations. Keep its layout, backgrounds, card colors, typography, and controls. Replace lime with neutral charcoal. Defer user-selectable primary colors to later theme support. This selection does not complete issue #2.
+The owner selects concept 05 instead of the later layout variations. Keep its layout, backgrounds, card colors, and controls. Apply the approved Newsreader and DM Sans font selection below. Replace lime with neutral charcoal. Defer user-selectable primary colors to later theme support. This selection does not complete issue #2.
 
 The owner requests flat buttons after reviewing the neutral edits. Apply the same button treatment in dark and light modes. Remove gradients, bevels, reflective edges, and shadows from primary actions, grade controls, and selected navigation. Keep the accepted depth on collection cards and the key-points card.
+
+## Approved fonts
+
+The owner selects option 2, Newsreader with DM Sans, on 2026-10-22. Use Newsreader for the wordmark, headings, collection names, and review cue. Use DM Sans for navigation, body text, counts, labels, and controls. Apply this pair in light and dark modes.
+
+The [font comparison](../../output/design/mindaloy-font-comparison.html) preserves all five alternatives. This selection replaces the unspecified fonts in the approved images. Font sizes, weights, line heights, and letter spacing still require specification.
 
 ## Selected starting point
 
@@ -116,6 +122,7 @@ The issue #1 branch contains newer approved scope than this checkout. The branch
 | Starting concept | The owner selects concept 05 on 2026-10-22 and requests a light counterpart from a supplied palette reference. |
 | Default primary color | The owner selects grayish black on 2026-10-22. Use charcoal buttons with light text in both modes. |
 | Button treatment | The owner requests flat controls in both modes. Remove gradients, bevels, highlights, and shadows from buttons. Preserve card depth. |
+| Font families | The owner selects Newsreader with DM Sans on 2026-10-22. |
 | Later themes | Defer user-selectable primary colors. |
 | Approval status | The owner accepts concept 05's dark and light layouts with the neutral primary-color change. Remaining screens and interaction states still need approval. |
 

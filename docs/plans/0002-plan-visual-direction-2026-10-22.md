@@ -2,7 +2,7 @@
 
 Created: 2026-10-22
 
-Status: The owner approves the final concept 05 flat-control mockups on 2026-10-22. [DESIGN.md](../../DESIGN.md) records the system. Integration settings and remaining interaction states still need visual references.
+Status: The owner approves the final concept 05 flat-control mockups on 2026-10-22. [DESIGN.md](../../DESIGN.md) records the system. The owner approves the integration settings Draft 01 on 2026-10-22, which completes the screen coverage of issue #2.
 
 The final approval covers desktop collections and phone review after reveal in dark and light modes. It supersedes the earlier lime, colored-primary, and raised-button variations. The design document records phone behavior, keyboard guidance, and request states. Those rules do not represent browser test results.
 
@@ -24,7 +24,7 @@ Collection creation uses a form within Collections. Collection editing uses a fo
 
 The owner requests light and dark mockups for every page. The [page review index](../../output/design/pages/README.md) links the images and generation prompts. The built-in imagegen tool creates these drafts. Each image shows desktop and phone layouts.
 
-The new page images still need owner approval. They do not replace the approved concept 05 references until that approval. Create one implementation issue per page after the owner approves its references.
+The integration settings images are approved on 2026-10-22. The other page images remain drafts, and each page issue (#3 to #9) settles its own reference during planning. They do not replace the approved concept 05 references.
 
 ## Selected starting point
 
@@ -134,7 +134,7 @@ The issue #1 branch contains newer approved scope than this checkout. The branch
 | Button treatment | The owner requests flat controls in both modes. Remove gradients, bevels, highlights, and shadows from buttons. Preserve card depth. |
 | Font families | The owner selects Newsreader with DM Sans on 2026-10-22. |
 | Later themes | Defer user-selectable primary colors. |
-| Approval status | The owner accepts concept 05's dark and light layouts with the neutral primary-color change. Remaining screens and interaction states still need approval. |
+| Approval status | The owner accepts concept 05's dark and light layouts with the neutral primary-color change. The integration settings Draft 01 is approved on 2026-10-22. Other page drafts are settled in their own issues. |
 
 ## Research
 

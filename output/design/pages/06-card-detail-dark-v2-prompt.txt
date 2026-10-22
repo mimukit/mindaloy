@@ -1,0 +1,9 @@
+Use case: ui-mockup, precise text and control correction.
+Edit the attached Mindaloy Card detail dark draft. Keep the layout, colors, content, sidebar, phone layout, all counts and history rows unchanged. Preserve the approved Newsreader serif headings and cue.
+Required corrections on BOTH desktop and phone:
+1. The label above "What does a closure retain?" is exactly "Cue". Remove any "Question" label and replace it with "Cue".
+2. All Key points content and its label use DM Sans sans-serif, never serif. Keep the cue and page headings in Newsreader.
+3. "Edit card" is the only primary filled charcoal button. "Archive card" and "Reset schedule" are quiet secondary plain text actions with no filled button backgrounds, visible but lower emphasis. Keep their labels.
+4. Every button uses one perfectly uniform solid color with no gradient, highlight, bevel, reflection or shadow. Preserve soft depth on content cards only.
+5. Do not change any other text. Footer becomes "Mindaloy / Card detail and review history / dark / Draft 02".
+Render a crisp flat software UI board. No perspective, no extra decoration.

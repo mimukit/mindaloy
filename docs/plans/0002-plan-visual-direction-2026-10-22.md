@@ -16,6 +16,16 @@ The owner selects option 2, Newsreader with DM Sans, on 2026-10-22. Use Newsread
 
 The [font comparison](../../output/design/mindaloy-font-comparison.html) preserves all five alternatives. This selection replaces the unspecified fonts in the approved images. Font sizes, weights, line heights, and letter spacing still require specification.
 
+## Page coverage update
+
+The owner approves seven starting pages and collection forms on 2026-10-22. The pages are Sign in, Collections, Collection detail, Card editor, Review, Card detail with review history, and Integration settings.
+
+Collection creation uses a form within Collections. Collection editing uses a form within Collection detail. Neither form needs a separate page.
+
+The owner requests light and dark mockups for every page. The [page review index](../../output/design/pages/README.md) links the images and generation prompts. The built-in imagegen tool creates these drafts. Each image shows desktop and phone layouts.
+
+The new page images still need owner approval. They do not replace the approved concept 05 references until that approval. Create one implementation issue per page after the owner approves its references.
+
 ## Selected starting point
 
 Use [dark concept 05](../../output/design/mindaloy-dark-concept-05.png) for the layout and card treatment. Its [prompt](../../output/design/mindaloy-dark-concept-05-prompt.txt) records the source references.

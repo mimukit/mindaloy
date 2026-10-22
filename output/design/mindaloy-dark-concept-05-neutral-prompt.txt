@@ -1,0 +1,15 @@
+Use case: ui-mockup, precise color edit.
+Edit the attached Mindaloy dark concept 05 image. The user accepts the layout, background colors, card colors, typography, and controls. Change ONLY the primary accent from lime green to neutral charcoal. Preserve every other pixel as closely as possible. This is a targeted recolor, not a redesign.
+
+Specific edits:
+1. Primary "Review 24 cards" button: replace lime fill with grayish black #3A3A3A, matching the collection-card family. Replace dark label and arrow with off-white #ECECE6. Preserve its pill shape, size, and location. Use a fine neutral gray edge #777777 so the charcoal button remains visible on a dark page. Keep the same restrained short shadow and subtle upper-edge highlight.
+2. Selected sidebar marker and the faint lime edge on the selected navigation pill: remove green entirely. Use a neutral gray selection marker #B6B6B0. Keep the selected navigation pill charcoal with off-white text.
+3. TypeScript due dot: replace lime with neutral gray #B6B6B0. Do not recolor collection cards or their text.
+4. Phone review progress: replace the lime completed segment with #B6B6B0. Preserve the track and geometry.
+5. Remove every remaining green or lime hue. The result is neutral grayscale throughout.
+
+Preserve EXACTLY: dark charcoal page, dark sidebar, gray cards, off-white headings; three stacked collection cards; all text, icons and counts; phone cue and typed answer; charcoal key-points card; neutral segmented grade control; all screen boundaries, dimensions, spacing, serif and sans-serif type choices; full desktop left and phone right composition. Do not add theme settings or color pickers. Do not change card backgrounds, page backgrounds, sidebar backgrounds, shadows, or type sizes.
+
+Keep text "Mindaloy", "Your collections", "24 cards due for review", "New collection", "TypeScript", "128 cards", "12 due", "System design", "86 cards", "8 due", "Spanish", "240 cards", "4 due", "Review 24 cards", "Integration settings", "What does a closure retain?", "Your answer", "Key points", "Grade your recall", "Again", "Hard", "Good", "Easy".
+Only change the tiny board footer caption to "Mindaloy / Concept 05 · Dark · Neutral".
+No blue, purple, teal, gold, or green. Retain the original high fidelity UI image.

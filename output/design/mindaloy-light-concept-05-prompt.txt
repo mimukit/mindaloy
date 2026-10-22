@@ -1,0 +1,28 @@
+Use case: ui-mockup / lighting-weather theme edit.
+Edit IMAGE 1, the Mindaloy concept 05 screenshot board, into its LIGHT MODE counterpart. IMAGE 1 is the edit target and exact layout/content reference. IMAGE 2 is only the light palette and material reference. Preserve the app composition and all screen contents from IMAGE 1. Do not invent a new layout.
+
+PRIMARY REQUEST: same Mindaloy concept 05, with the light gray environment and CHARCOAL CARDS shown in IMAGE 2. Light mode does not mean white cards. The user specifically supplies a pale gray backdrop with dark sculpted book covers. Translate that combination into the application. No full dark app window remains.
+
+Preserve exactly: the desktop application at left and tall phone review at right; full sidebar with logo and wordmark, library navigation, collection links and integration settings; the desktop top bar; three stacked collection cards in a row; the card icons and typography; the review cue, typed answer, revealed key-points card; the rounded segmented grade control. Preserve rounded corners, soft short shadows, subtle control highlights, stacked card layers. Same straight-on view and proportions as IMAGE 1, no hardware device mockup, no perspective.
+
+Palette changes:
+- Board backdrop neutral pale gray around #D9D9D9, like IMAGE 2.
+- Desktop main content and phone page backgrounds pale gray #DEDEDC.
+- Sidebar and top bar slightly deeper pale gray #D2D2D0, separated by fine neutral edges.
+- Main text outside cards charcoal #30302E, secondary text #62625E.
+- Collection cards STAY CHARCOAL around #3A3A3A with subtly darker backing layers #333333, soft highlights and depth, matching IMAGE 2's book covers. Keep card text off-white #ECECE6 and card metadata #C0C0BA. Do not turn cards white or tint them green.
+- Phone key-points card also stays charcoal with off-white answer text.
+- Selected navigation item stays a restrained charcoal raised pill with off-white label. Keep the small lime edge marker from concept 05.
+- Keep concept 05's lime accent around #C4F24C for the primary "Review 24 cards" pill with charcoal text, a small due dot, and the short progress segment. Add only a very fine dark edge to distinguish the lime button on pale gray. No new blue, violet, or teal accents.
+- Grade control stays charcoal with four equal neutral segments, off-white text, no colored selected grade.
+- All colored accents stay small. Main page has no atmospheric gradient or glow.
+
+Text and structure, retain verbatim from IMAGE 1:
+"Mindaloy", "LIBRARY", "Collections", "Review", "24", "COLLECTIONS", sidebar "TypeScript", "System design", "Spanish", "Integration settings".
+Main heading "Your collections", subtitle "24 cards due for review", secondary action "New collection".
+Cards: "TypeScript", "128 cards", "12 due"; "System design", "86 cards", "8 due"; "Spanish", "240 cards", "4 due".
+Primary action "Review 24 cards".
+Phone "TypeScript", "3 / 24", cue "What does a closure retain?", label "Your answer", text "Access to variables from its surrounding scope.", label "Key points", text "A function retains access to its lexical scope after the outer function returns.", footer "Grade your recall", segments "Again", "Hard", "Good", "Easy".
+Above the two views keep tiny labels "Collections" and "Review". Bottom board caption becomes "Mindaloy / Concept 05 · Light". Keep the serif headings from concept 05 and sans-serif labels, without a new typography experiment.
+
+Do not add theme selectors, color pickers, settings screens, graphs, calendars, AI features, navigation items, or new metrics. User-selectable primary colors are future work, not part of this image. This is a faithful theme variation of the selected starting concept, with the light gray / charcoal-card palette of IMAGE 2. Legible realistic high fidelity software mockup, not a marketing page.

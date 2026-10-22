@@ -1,0 +1,13 @@
+Output: six raster mockups. No website code.
+Audience: English-speaking learners and the developers who connect their learning tools.
+Action: Sign in.
+Subject inventory: Mindaloy name; Newsreader wordmark; DM Sans controls; neutral light palette; charcoal collection stacks; TypeScript, System design and Spanish sample collections; typed recall; separate key points; learner-selected Again, Hard, Good and Easy grades; card creation with cue and key points; scoped and revocable API keys.
+Argument: Introduction proves the app's purpose with collections. Reviews prove typed recall and learner-selected grades. Cards prove creation and collection membership with the editor. API proves access control with a permission specimen.
+Copy: Each generation prompt records the full copy deck before image generation.
+Idea: Mindaloy's typed answer, key points, collection membership and key scope become four readable product specimens.
+Live thing: A sample typed review is the proposed interaction. The image represents its state; no interaction is implemented.
+Directions: Improved original, then product-performs, quiet-instrument, split-stage, name-as-monument and colour-chapters. The five direction sheets use seed 20261022 and keep the approved palette and type.
+Selection: The quiet draw offers three directions. The earlier unrestricted draw offers name-as-monument and colour-chapters. These five support different layouts without unrelated images or invented product claims. Loud-flat-poster is rejected because its heavy sans typography and saturated fields contradict the brand.
+Adaptation: Static images show final states of the directions. Browser checks, motion, scroll scenes and live behavior do not apply to these raster deliverables. Marketing fields use no rules or shadows. Product card stacks retain the approved backing layers. All four fields use the approved light palette. No photography or footage is substituted for product evidence.
+Content adjustment: Generic blueprint counts do not override the four required sections. Eight-row boards, six margin notes, dark inverted sections and unrelated photo slots become the supplied collection, review, editor and permission specimens. No product facts are invented to fill a blueprint.
+Sample data: Collection names and counts, closure card content and the Learning agent permission specimen come from the existing mockups or the recorded design brief. They require confirmation before implementation.

@@ -1,0 +1,44 @@
+Selected direction: The quiet instrument. Original seed 20261022. No direction redraw. The owner selects variation 2 and requests alignment, spacing and a CTA before the footer.
+Idea: Mindaloy's collections, typed review, card editor and key scope form one reading column.
+Live thing: The sample review remains a proposed interaction. This deliverable is a static raster image.
+Tool: Built-in image generation. Existing project mockups supply every product reference. No external photographs, clips or substitute imagery.
+Sample content: Existing collection names and counts, the closure card, and the Learning agent permission specimen remain unchanged in scope.
+
+ROUND 1
+Seen in one second: A headline above a wide collection specimen.
+Idea (one sentence): Product specimens follow one reading column and end with a Sign in action.
+Live thing: Proposed sample review, represented as a still.
+Layout words by section: hero=vertical-specimen / reviews=sequence / cards=paired-panel / API=scope-board / CTA=invitation / footer=links.
+Scores: design 7.5, usability 7.5, creativity 6.5, content 8.0; overall 7.4.
+Caps applied: No browser or live behavior score is claimed. The composition also suits other recall apps.
+Top three problems, each with image and fix:
+1. In v3, the grade row starts inside the answer field's left edge. In v4, four equal controls span the field width.
+2. In v3, the phone header repeats navigation controls. In v4, the hamburger and duplicate header Sign in control are removed.
+3. V3 has no concluding CTA. V4 adds Review what you learn and a Sign in action before each footer.
+
+ROUND 2
+Seen in one second: The aligned specimens and the final CTA.
+Idea (one sentence): The same reading path leads from collection context to a review action.
+Live thing: Proposed sample review, represented as a still.
+Layout words by section: hero=vertical-specimen / reviews=sequence / cards=paired-panel / API=scope-board / CTA=invitation / footer=links.
+Scores: design 7.5, usability 7.5, creativity 6.5, content 7.0; overall 7.3.
+Caps applied: Generated phone lettering reduces content confidence.
+Top three problems, each with image and fix:
+1. V4 crowds the lower headings against preceding panels. V5 adjusts the section gaps.
+2. V4 uses a small footer wordmark. V5 increases its size and adjusts the CTA and footer separation.
+3. V5 introduces unclear phone editor and API text. V6 restores the specified key points and short API paragraph.
+
+ROUND 3
+Seen in one second: A consistent content column, charcoal collection cards and a final Sign in CTA.
+Idea (one sentence): The four product specimens lead to a clear closing action.
+Live thing: Proposed sample review, represented as a still.
+Layout words by section: hero=vertical-specimen / reviews=sequence / cards=paired-panel / API=scope-board / CTA=invitation / footer=links.
+Scores: design 7.5, usability 7.5, creativity 6.5, content 8.0; overall 7.4.
+Caps applied: The competitor test limits creativity. Static images provide no measured layout, contrast or motion evidence.
+Top three remaining problems, each with image and fix:
+1. V6 still has optical differences in panel insets. Establish and measure a spacing scale when implementing the selected image.
+2. V6 retains shading in some generated buttons. Production controls must use the flat approved primary fill.
+3. Small phone labels still need exact text and font metrics. Verify them against the copy deck during implementation.
+
+Result: V6 adds the CTA on desktop and phone, aligns the grade row with its fields, simplifies phone navigation, and improves section spacing. It preserves all four sections and both footers.
+Limit: The final visual score remains 7.4. The image communicates the refined layout but does not prove that every margin or padding value matches. No source code, browser gate, responsive measurement, interaction test or motion check runs for this raster-only task.

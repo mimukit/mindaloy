@@ -1,0 +1,80 @@
+Scope: visual review of static raster concepts only. Scores express design judgment. No browser gate runs. Motion and live behavior are proposed, not implemented.
+Source material: the project's existing collections, card editor and integration settings mockups. No found photographs, clips or substitute drawings.
+Brand exception: content card stacks keep the approved backing layers. Generic blueprint motion and live controls do not apply to image deliverables.
+
+ROUND 1, improved original
+Seen in one second: headline and charcoal collection cards.
+Idea (one sentence): Four product specimens explain Mindaloy's collection, recall, card creation and key scope.
+Live thing: Proposed sample review; static in the image.
+Layout words by section: hero=split / reviews=specimen / cards=editor-and-list / API=band.
+Scores: design 7.0, usability 7.0, creativity 6.0, content 8.0; arithmetic 6.9, capped overall 6.5.
+Caps applied: Marketing separator lines remain visible. The first phone image omits API access.
+Top three problems, with image and fix:
+1. 00-improved.png omits API access on the phone. Add its heading, explanation and key scope.
+2. 00-improved-v2.png omits the phone footer. Add it below API access without covering the permissions.
+3. The baseline retains separator lines and generated button shading. Remove them when the chosen reference becomes application code.
+
+ROUND 1, variation 1
+Seen in one second: a review beside the introduction.
+Idea (one sentence): The typed closure answer demonstrates the product before the visitor reads the review explanation.
+Live thing: Proposed review in the introduction; static in the image.
+Layout words by section: hero=demonstration-and-strip / reviews=specimen-and-explanation / cards=editor-and-list / API=scope-board.
+Scores: design 7.5, usability 7.0, creativity 7.0, content 8.0; arithmetic 7.3, capped overall 6.5.
+Caps applied: Marketing separator lines remain visible.
+Top three problems, with image and fix:
+1. 01-product-performs.png repeats the same review example in two sections. Select a second cue during copy review.
+2. Its phone API paragraph is small. Give the selected phone design more vertical space during implementation.
+3. Marketing rules and button shading remain. Replace rules with space and use flat button tokens.
+
+ROUND 3, variation 2
+Seen in one second: the headline above a wide collection specimen.
+Idea (one sentence): Mindaloy's product specimens form one continuous reading column.
+Live thing: Proposed sample review; static in the image.
+Layout words by section: hero=vertical-specimen / reviews=sequence / cards=expanded-editor / API=compact-scope.
+Scores: design 7.5, usability 7.5, creativity 6.5, content 8.0; overall 7.4.
+Caps applied: Creativity stays below 7 because the column also suits other recall apps. No motion or browser score is claimed.
+Top three problems, with image and fix:
+1. 02-quiet-instrument.png repeats the baseline composition. The v2 image changes to a central reading column.
+2. The v2 review uses a light key-points panel. The v3 image restores charcoal on desktop and phone.
+3. The v2 phone API paragraph contains unclear generated lettering. The v3 image replaces it with shorter text.
+Remaining problems: Small interface labels still need actual font metrics. Button shading remains in the generated pixels. The single column has less visual variety than variation 3.
+
+ROUND 1, variation 3
+Seen in one second: the introduction and collections occupy the left column.
+Idea (one sentence): The collection context stays beside the review, card editor and key scope.
+Live thing: Proposed sample review in the reading column; static in the image.
+Layout words by section: hero=persistent-stage / reviews=column / cards=paired-specimens / API=scope-panel.
+Scores: design 7.5, usability 7.0, creativity 7.5, content 8.0; arithmetic 7.4, capped overall 6.5.
+Caps applied: Marketing separator lines remain visible.
+Top three problems, with image and fix:
+1. 03-split-stage.png has a narrower desktop reading column. Test actual editor labels at tablet widths during implementation.
+2. The left column appears empty below its collections in this full-page still. Show the sticky behavior only if that design is selected.
+3. Marketing rules and button shading remain. Replace rules with space and use flat button tokens.
+
+ROUND 1, variation 4
+Seen in one second: the large Mindaloy wordmark.
+Idea (one sentence): Mindaloy's Newsreader wordmark determines the introduction's scale.
+Live thing: Proposed review example; static in the image.
+Layout words by section: hero=name-band / reviews=specimen / cards=editor-and-list / API=horizontal-form.
+Scores: design 7.5, usability 7.0, creativity 7.0, content 7.5; arithmetic 7.3, capped overall 6.5.
+Caps applied: Marketing separator lines remain visible.
+Top three problems, with image and fix:
+1. 04-name-monument.png spends much of the introduction on the wordmark. Reduce its height if the product benefit needs more emphasis.
+2. The phone API paragraph has small generated lettering. Use the approved copy deck and a larger actual font during implementation.
+3. The phone retains little of the large-wordmark composition. Review a separate phone wordmark scale if this option is selected.
+
+ROUND 1, variation 5
+Seen in one second: alternating light-gray section fields and charcoal product cards.
+Idea (one sentence): Neutral fields distinguish Mindaloy's collection, recall, creation and access tasks.
+Live thing: Proposed review example; static in the image.
+Layout words by section: hero=split-stage / reviews=wide-specimen / cards=editor-led-board / API=scope-pair.
+Scores: design 7.5, usability 7.5, creativity 6.5, content 8.0; overall 7.4.
+Caps applied: Creativity stays below 7 because broad neutral fields also suit other product pages.
+Top three problems, with image and fix:
+1. 05-neutral-chapters.png has small phone API text. Expand that section in the selected phone implementation.
+2. Its review paragraph repeats the grade explanation. Use the shorter common copy deck during implementation.
+3. Generated buttons retain shading. Use the flat primary token for every button.
+
+Recommendation: variation 2 for the requested simple page. Variation 3 offers the strongest change in composition. Variation 5 gives the clearest section boundaries.
+Limits: No image earns a score of 7.5 or higher in this review. Small text and generated control shading remain. These are complete composition options for owner review, not production UI or measured accessibility evidence.
+Sample content to confirm: TypeScript, System design and Spanish; counts 128, 86 and 240; due counts 12, 8 and 4; the closure cue and key points; the Learning agent key with TypeScript access, Write cards and Read progress.
